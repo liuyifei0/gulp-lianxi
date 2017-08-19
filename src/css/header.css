@@ -1,0 +1,21 @@
+header {
+  color: #000fff;
+  background-color: #ff0000;
+  height: 100px;
+  width: 500px;
+  border-radius: 20%;
+  box-shadow: 10px 0 10px black;
+}
+.logobox {
+  display: block;
+  width: 200px;
+  height: 100px;
+  border: 10px solid blue;
+  background-image: url(../img/logo.jpg);
+}
+.coushu {
+  clear: both;
+  border: 1px solid pink;
+  height: 200px;
+  background: skyblue;
+}
