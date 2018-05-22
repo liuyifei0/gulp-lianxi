@@ -62,7 +62,7 @@ gulp.task('default',function(){
 		server:{
 			baseDir:"./build/"
 		},
-		port:8080
+		port:9000
 	});
 	gulp.watch("./src/css/*.less",['less','images','concat'])
 	gulp.watch("src/*.html",['html']);
